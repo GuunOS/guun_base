@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector android:height="24.0dip" android:width="24.0dip" android:viewportWidth="24.0" android:viewportHeight="24.0"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <clip-path android:name="mask" android:pathData="M16,21H8a2,2,0,0,1-2-2V6A2,2,0,0,1,8,4H9.3A3,3,0,0,1,12,2a3,3,0,0,1,2.7,2H16a2,2,0,0,1,2,2V19A2,2,0,0,1,16,21Z" />
+    <path android:name="battery_level" android:fillColor="#ff000000" android:pathData="M16,21H8a2,2,0,0,1-2-2V6A2,2,0,0,1,8,4H9.3A3,3,0,0,1,12,2a3,3,0,0,1,2.7,2H16a2,2,0,0,1,2,2V19A2,2,0,0,1,16,21Z" />
+</vector>
